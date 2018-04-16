@@ -1,0 +1,42 @@
+.content{
+	background-color: #fafafa;
+	border: 1px solid #c5c5c5;
+	margin-bottom: 15px;
+}
+.logo {
+	padding: 17px 0;
+	text-align: center;
+}
+
+.menu {
+	margin-bottom: 0;
+	padding: 16px 0 2px;
+}
+.artigo{
+	padding: 15px;
+}
+.artigo h1{
+	font-size: 2rem;
+}
+.chamada{
+	display: flex;
+	justify-content: space-between;
+	padding: 15px 40px;
+}
+.chamada p,
+.chamada a{
+	margin: 0;
+}
+.chamada p{
+	font-size: 1.5em;
+}
+.chamada a{
+	margin-top: 5px;
+	text-align: right;
+}
+.rodape{
+	padding: 25px;
+}
+.rodape p {
+	margin: 0;
+}
